@@ -59,7 +59,7 @@ const config = {
       Location: 'HomeScreen',           // HomeScreen, HomeScreenAndCallControls, CallControls, Never, ControlPanel
       Order: 1,                         // Set the Position where this panel will render amongst other Custom Panels. Does not effect Native Panels
       Icon: {
-        Type: 'Blinds',                 // Choose an Option from the list Below. Note, Custom expect a the CustomIconURL to be provided
+        Type: 'Language',                 // Choose an Option from the list Below. Note, Custom expect a the CustomIconURL to be provided
         /*
         "Blinds", "Briefing", "Camera", "Concierge", 
         "Custom", "Disc", "Handset", "Help", "Helpdesk", 
